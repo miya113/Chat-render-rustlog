@@ -2,7 +2,7 @@ This is to convert **rustlog logs (logs.ivr.si)** into the json file which can b
 
 Use **TwitchDownloader** to Chat Rendering.
 
-*This code was almost made by ChatGPT and I have little knowledge about coding.
+**This code was almost made by ChatGPT and I have little knowledge about coding. So don't ask me any questions.**
 
 Change the name (default is Forsen) if you want to render the other one's chat.
 
