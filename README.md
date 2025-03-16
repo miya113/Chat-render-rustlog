@@ -1,4 +1,4 @@
-This is to convert **rustlog logs (logs.ivr.si)** into the json file which can be used to rendering.
+This code is for converting **rustlog logs (logs.ivr.si)** into the json file which can be used to chat rendering.
 
 Use **TwitchDownloader** to Chat Rendering.
 
