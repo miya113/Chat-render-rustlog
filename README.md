@@ -11,3 +11,4 @@ Change the name (default is Forsen) if you want to render the other one's chat.
 1. Old 3rd party emotes cannot be seen.
 2. Deleted twitch emotes(e.g. old PogChamp emote) cannot be seen. Archived emotes can be seen. You can see for example DrDisRespect emotes.
 3. Banned or timed out messages are not implemented.
+4. If sub badges are changed, old ones cannot be seen.
